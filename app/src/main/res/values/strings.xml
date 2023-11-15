@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_a_task">Enter a task</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_description">Task Description</string>
+    <string name="finished">Finished</string>
+    <string name="back">Back</string>
+</resources>
